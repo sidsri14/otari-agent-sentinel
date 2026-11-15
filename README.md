@@ -1,7 +1,7 @@
 # Otari Agent Sentinel
 
 > **Autonomous Multi-Agent Governance, Intelligent Failover & Pre-Debit Budget Guardrails on Mozilla Otari Gateway**  
-> Built for the **MozFest / Mozilla.ai "Developers Wilding: Online" Hackathon 2026** ($1,000 1st Place Track)
+> Built for the **Cognizant Open Agentic Web Challenge 2026–2027** ($10,000+ USD Prize Pool by Cognizant AI Lab, MIT Media Lab NANDA, Mozilla, AWS) and the **Mozilla.ai Otari Ecosystem**
 
 [![CI](https://github.com/sidsri14/otari-agent-sentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/sidsri14/otari-agent-sentinel/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -130,11 +130,15 @@ otari-agent-sentinel/
 
 ---
 
-## 7. MozFest Submission Metadata
+## 7. Hackathon Submission Metadata
 
-- **Event:** MozFest Developers Wilding: Online Hackathon 2026
-- **Track:** 1st Place Main Award ($1,000 USD)
+- **Primary Challenge:** Cognizant Open Agentic Web Challenge 2026–2027 ($10,000+ USD Prize Pool)
+  - Hosted by: Cognizant AI Lab, MIT Media Lab NANDA, Mozilla, AWS, UT Austin
+  - Devpost Portal: [`cognizant-agenticweb.devpost.com`](https://cognizant-agenticweb.devpost.com/)
+  - Devpost Submission Draft: `#1306912`
+- **Partner Ecosystem:** Mozilla.ai / Mozilla Otari LLM Gateway
 - **Author:** Siddharth Srivastava ([@sidsri14](https://github.com/sidsri14))
 - **Email:** `sidsri1502@gmail.com`
-- **Payout PayPal:** `sidsri1302@gmail.com`
+- **Payout Rails:** PayPal `sidsri1302@gmail.com` / Direct Wire
+- **Article Reference:** [Autonomous Multi-Agent Governance on sidsri14.github.io](https://sidsri14.github.io/articles/autonomous-multi-agent-governance-budget-guardrails.html)
 - **License:** MIT
