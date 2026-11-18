@@ -4,6 +4,7 @@
 > Built for the **Cognizant Open Agentic Web Challenge 2026–2027** ($10,000+ USD Prize Pool by Cognizant AI Lab, MIT Media Lab NANDA, Mozilla, AWS) and the **Mozilla.ai Otari Ecosystem**
 
 [![CI](https://github.com/sidsri14/otari-agent-sentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/sidsri14/otari-agent-sentinel/actions)
+[![DriftGuard CI Guard](https://img.shields.io/badge/DriftGuard-CI%20Guard%20Passed-blue)](https://github.com/marketplace/actions/driftguard-ci-guard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x%20%7C%2022.x-brightgreen.svg)](https://nodejs.org)
 [![Otari Compatible](https://img.shields.io/badge/Gateway-Mozilla%20Otari-orange.svg)](https://otari.ai)
